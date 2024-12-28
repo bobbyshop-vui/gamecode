@@ -1,0 +1,14 @@
+Label {
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(0, 122, 255, 1);
+}
+
+Button {
+    color: rgba(255, 255, 255, 1);
+    font-size: 16sp;
+}
+
+TextInput {
+    foreground-color: rgb(255, 255, 255);
+    font-size: 14sp;
+}
